@@ -1,0 +1,13 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_103_1x20mm'.
+Info: Processing symbol 'BZ1:Buzzer_Beeper:Buzzer_15x7.5RM7.6'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_REED_CT05-XXXX-G1'.
+Info: Processing symbol 'U1:Package_QFP:TQFP-32_7x7mm_P0.8mm'.
+Info: Processing symbol 'U2:RF_GSM:SIMCom_SIM900'.
+Info: Processing symbol 'U3:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'U4:Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm'.
+Reconnect SW1 pin 2 from GND to Net-(U1-PD6).
+Reconnect SW1 pin 1 from Net-(U1-PD6) to GND.
+Reconnect U4 pin 5 from unconnected-(U4-VDD-Pad5) to VCC.
+
+
+Info: Total warnings: 0, errors: 0.
